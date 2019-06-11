@@ -157,3 +157,6 @@ hardstatus string '%{gk}[ %{G}%H %{g}][%= %{wk}%?%-Lw%?%{=b kR}(%{W}%n*%f %t%?(%
 
 # Rebind escape from CTRL-A to CTRL-J
 escape ^Jj
+
+# Save the layout
+layout save default
